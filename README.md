@@ -1,11 +1,13 @@
-# Introduction
+# 🌟 Introduction
 
 - **Quan Hoang Ngoc**
 - **PTTKTT**
 - **Semester 1, 2023**
 
-### About
+### 📚 About
 
-- **Parallel Algorithm for Merge Sort**: Embark on a journey to craft an elegant and efficient parallel algorithm for merge sort, showcasing the beauty of fundamental sorting techniques.
-- **Professional Software Engineering**: This project hones my skills as a professional software engineer, focusing on precision, elegance, and efficiency in coding practices.
-- **Python and Multiprocessing**: Leveraging Python's multiprocessing library and the Pool class, I delve into the fascinating world of CPU cores and multiprocessors, uncovering their profound impact on code performance and exploring the intricate interplay between hardware and software.
+Embark on a journey through the realms of advanced computing:
+
+- **Parallel Algorithm for Merge Sort**: Dive into the development of an elegant and efficient parallel algorithm for merge sort, showcasing mastery of fundamental sorting techniques.
+- **Professional Software Engineering**: Refine skills in professional software engineering, emphasizing precision, elegance, and efficiency in coding practices.
+- **Python and Multiprocessing**: Harness the power of Python's multiprocessing library and the Pool class to explore the intricacies of CPU cores and multiprocessors, unraveling their profound impact on code performance and the synergy between hardware and software.
