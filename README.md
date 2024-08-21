@@ -27,6 +27,9 @@ print(sorted_output)  # Output: [0, 0, 4, 5, 6, 7, 8, 9, 10, 10, 11, 15, 15, 16,
 ### 📊 Results
 The parallel implementation has shown to outperform the traditional merge sort, especially with larger datasets. For example, the average run time for sorting 100,000 elements was significantly lower with the parallel approach.
 
+![image](https://github.com/user-attachments/assets/95293721-2076-47a3-8cae-c848f4d542cd)
+
+
 ---
 ## 🔧 How did we do it?
 The development process involved several key steps:
@@ -56,21 +59,8 @@ Through this project, we learned:
 ---
 ## ⚙️ How to Install and Run the Project
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/ParallelMergeSort.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd ParallelMergeSort
-   ```
-3. **Install dependencies**:
-   ```bash
-   pip install numpy
-   ```
-4. **Run the application**:
-   ```bash
-   python main.py
-   ```
+2. **Install dependencies**:
+3. **Run the notebook**:
 
 ---
 ## 📖 How to Use the Project
