@@ -27,8 +27,7 @@ print(sorted_output)  # Output: [0, 0, 4, 5, 6, 7, 8, 9, 10, 10, 11, 15, 15, 16,
 ### 📊 Results
 The parallel implementation has shown to outperform the traditional merge sort, especially with larger datasets. For example, the average run time for sorting 100,000 elements was significantly lower with the parallel approach.
 
-![image](https://github.com/user-attachments/assets/95293721-2076-47a3-8cae-c848f4d542cd)
-
+<img src="https://github.com/user-attachments/assets/95293721-2076-47a3-8cae-c848f4d542cd" alt="visual" width="400"/>
 
 ---
 ## 🔧 How did we do it?
